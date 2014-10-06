@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Vai",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 30435,
+  "fonts": [
+    {
+      "name": "Noto Sans Vai",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansVai-Regular.ttf",
+      "postScriptName": "NotoSansVai",
+      "fullName": "Noto Sans Vai",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

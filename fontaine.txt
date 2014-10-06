@@ -1,0 +1,30 @@
+Fonts
+  Font:
+    Common name: Noto Sans Vai
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright 2013 Google Inc. All Rights Reserved.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00
+    Vendor: Monotype Imaging Inc.
+    Vendor url: http://code.google.com/p/noto/
+    Designer: Monotype Design team
+    Designer url: http://www.monotype.com/studio
+    Glyph count: 304
+    Character count: 305
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 7
